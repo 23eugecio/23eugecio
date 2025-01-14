@@ -1,5 +1,25 @@
-# 💫 About Me:
-About Me 🌟<br>Hi there! 👋 Greetings from Argentina! 🇦🇷 I'm a passionate Full Stack Developer from Córdoba, with a relentless curiosity and a deep desire to keep learning and growing in the tech world. At 41 years young, I've embraced my journey as a developer, bringing a unique blend of life experience, problem-solving skills, and a fresh perspective to every project I tackle.<br><br>💡 What drives me?<br><br>A hunger to learn new technologies and methodologies.<br>A passion for collaborating on exciting projects that make an impact.<br>A love for clean, efficient code and innovative solutions.<br>🌐 What sets me apart?<br><br>Tech stack expertise: Proficient in front-end and back-end development with technologies like HTML, CSS, JavaScript, React, Express, Node.js, TypeScript, and MongoDB (including MongoDB Atlas).<br>Project highlight: For my final project, I developed a WhatsApp clone, featuring real-time messaging functionality and seamless integration with a database using MongoDB. This project demonstrates my ability to design and implement complete applications, from intuitive front-end interfaces to robust back-end APIs and database management.<br>Bilingual proficiency: I speak both Spanish (native) and English (fluent), making me an effective communicator in diverse teams.<br>A growth mindset: I'm always looking for ways to improve, learn, and contribute to the tech community.<br>Team spirit: I thrive in collaborative environments, bringing energy, enthusiasm, and a can-do attitude.<br>💻 My current focus:<br><br>Mastering advanced concepts in React, TypeScript, and full-stack architecture.<br>Learning Next.js to enhance my skills in building performant, SEO-friendly web applications.<br>Building scalable and efficient back-end systems with Node.js, Express, and MongoDB Atlas.<br>Contributing to open-source projects and learning from experienced developers worldwide.<br>🚀 I'm excited to connect, collaborate, and create! Whether it's a challenging project, an open-source contribution, or just exchanging ideas, I'm all in. Let’s build something amazing together.
+About Me 🌟
+Hi there! 👋 Greetings from Argentina! 🇦🇷 I'm a passionate Full Stack Developer from Córdoba, with a solid educational background and a deep commitment to continuous learning. At 41 years young, I've embraced my journey as a developer, combining technical expertise with life experience and a fresh perspective to tackle challenges and create impactful solutions.
+
+🎓 Education & Training
+
+High School Diploma: Completed secondary education with excellent performance.
+International Exchange Experience: Spent one year in the United States as a high school exchange student, where I developed cultural adaptability and achieved a high level of English proficiency.
+Full Stack Web Developer Certification: Successfully completed an intensive Full Stack Web Development course at the UTN (Universidad Tecnológica Nacional) in Buenos Aires, gaining hands-on experience with modern web technologies.
+
+💡 Key Skills
+Tech Stack Expertise: Proficient in front-end and back-end technologies, including HTML, CSS, JavaScript, React, Express, Node.js, TypeScript, and MongoDB (including MongoDB Atlas).
+Ongoing Learning: Currently enhancing my skills by learning Next.js to create SEO-friendly, high-performance web applications.
+Bilingual Communication: Fluent in both Spanish (native) and English (advanced), allowing me to effectively collaborate with diverse, international teams.
+Project Highlight: Developed a WhatsApp clone as a final project, implementing real-time messaging and database integration with MongoDB. This project showcases my ability to create end-to-end applications, from intuitive user interfaces to scalable backend systems.
+
+🌐 What I Bring to the Table
+A collaborative mindset, with a strong ability to work as part of a team or independently.
+A passion for solving complex problems and delivering clean, efficient code.
+Excellent communication skills in both English and Spanish.
+A proactive approach to learning new tools, frameworks, and best practices in web development.
+🚀 Let’s Connect!
+I'm eager to bring my skills, creativity, and enthusiasm to new challenges. Whether you're looking for a team player, a fast learner, or someone with a passion for innovation, I’m here to collaborate and grow with you.
 
 
 ## 🌐 Socials:
